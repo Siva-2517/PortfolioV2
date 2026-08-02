@@ -38,7 +38,7 @@ If you wish to show screen captures of your featured projects instead of the pla
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view it.
+Open [Sivasurya's Portfolio](https://portfolio-v2-inky-ten.vercel.app) to view it.
 
 ---
 
